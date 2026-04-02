@@ -45,7 +45,7 @@ function AnimatedSection({ children, delay = 0 }: { children: React.ReactNode; d
 
 export default function Home() {
   return (
-    <div className="flex flex-col w-full min-h-screen relative">
+    <div className="flex flex-col w-full min-h-screen bg-black relative">
       <div className="fixed inset-0 z-0 pointer-events-none opacity-50">
         <Hyperspeed />
       </div>

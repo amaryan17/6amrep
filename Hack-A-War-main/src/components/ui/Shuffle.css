@@ -1,0 +1,6 @@
+.shuffle-parent {
+  position: relative;
+}
+.shuffle-char {
+  display: inline-block;
+}

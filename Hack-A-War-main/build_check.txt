@@ -1,0 +1,332 @@
+﻿
+> aegis-landing@0.1.0 build
+> next build
+
+  Γû▓ Next.js 14.2.35
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully
+   Linting and checking validity of types ...
+node.exe : 
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: (:St  
+  ring) [], RemoteExcept   
+ ion
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+Failed to compile.
+
+./src/components/hero.tsx
+5:10  Error: 'WebGLShader' 
+is defined but never used. 
+ @typescript-eslint/no-unus
+ed-vars
+
+./src/components/pipeline.t
+sx
+6:8  Error: 'Shuffle' is 
+defined but never used.  @t
+ypescript-eslint/no-unused-
+vars
+
+./src/components/ui/fluid-g
+lass.tsx
+5:28  Error: 'useMemo' is 
+defined but never used.  @t
+ypescript-eslint/no-unused-
+vars
+28:23  Error: Unexpected 
+any. Specify a different 
+type.  @typescript-eslint/n
+o-explicit-any
+60:4  Error: Unexpected 
+any. Specify a different 
+type.  @typescript-eslint/n
+o-explicit-any
+82:96  Error: Unexpected 
+any. Specify a different 
+type.  @typescript-eslint/n
+o-explicit-any
+112:36  Error: Unexpected 
+any. Specify a different 
+type.  @typescript-eslint/n
+o-explicit-any
+116:36  Error: Unexpected 
+any. Specify a different 
+type.  @typescript-eslint/n
+o-explicit-any
+120:40  Error: Unexpected 
+any. Specify a different 
+type.  @typescript-eslint/n
+o-explicit-any
+138:34  Error: Unexpected 
+any. Specify a different 
+type.  @typescript-eslint/n
+o-explicit-any
+
+./src/components/ui/Hypersp
+eed.tsx
+1:1  Error: Do not use 
+"@ts-nocheck" because it 
+alters compilation errors. 
+ @typescript-eslint/ban-ts-
+comment
+88:9  Error: 'nsin' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+110:15  Error: 
+'movementProgressFix' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+111:15  Error: 'uFreq' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+112:15  Error: 'uAmp' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+113:15  Error: 
+'distortion' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+121:15  Error: 'lookAtAmp' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+122:15  Error: 
+'lookAtOffset' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+142:15  Error: 
+'movementProgressFix' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+143:15  Error: 'uFreq' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+144:15  Error: 'uAmp' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+145:15  Error: 
+'distortion' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+152:15  Error: 'lookAtAmp' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+153:15  Error: 
+'lookAtOffset' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+173:15  Error: 
+'camProgress' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+174:15  Error: 'uFreq' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+175:15  Error: 'uAmp' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+176:15  Error: 
+'distortion' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+183:15  Error: 'lookAtAmp' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+184:15  Error: 
+'lookAtOffset' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+229:15  Error: 
+'distortion' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+234:15  Error: 'lookAtAmp' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+235:15  Error: 
+'lookAtOffset' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+334:15  Error: 
+'distortion' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+339:15  Error: 'lookAtAmp' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+340:15  Error: 
+'lookAtOffset' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+377:13  Error: 'fog' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+550:13  Error: 
+'lerpPercentage' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+554:13  Error: 'time' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+562:13  Error: 'fovChange' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+734:13  Error: 'curve' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+735:13  Error: 'geometry' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+737:13  Error: 'instanced' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+740:13  Error: 'laneWidth' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+742:13  Error: 'aOffset' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+743:13  Error: 'aMetrics' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+744:13  Error: 'aColor' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+754:15  Error: 'radius' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+755:15  Error: 'length' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+756:15  Error: 'speed' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+758:15  Error: 'carLane' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+761:15  Error: 'carWidth' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+762:15  Error: 'carShiftX' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+765:15  Error: 'offsetY' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+767:15  Error: 'offsetZ' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+785:15  Error: 'color' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+799:13  Error: 'material' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+821:13  Error: 'mesh' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+890:13  Error: 'instanced' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+891:13  Error: 
+'totalSticks' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+894:13  Error: 
+'stickoffset' is never 
+reassigned. Use 'const' 
+instead.  prefer-const
+907:15  Error: 'width' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+908:15  Error: 'height' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+911:15  Error: 'color' is 
+never reassigned. Use 
+'const' instead.  
+prefer-const
+1016:13  Error: 'segments' 
+is never reassigned. Use 
+'const' instead.  
+prefer-const
+
+./src/components/ui/Shuffle
+.tsx
+1:1  Error: Do not use 
+"@ts-nocheck" because it 
+alters compilation errors. 
+ @typescript-eslint/ban-ts-
+comment
+
+./src/components/ui/TrueFoc
+us.tsx
+32:10  Error: 
+'lastActiveIndex' is 
+assigned a value but never 
+used.  @typescript-eslint/n
+o-unused-vars
+80:75  Error: Unexpected 
+any. Specify a different 
+type.  @typescript-eslint/n
+o-explicit-any
+
+./src/hooks/usePipeline.ts
+180:19  Error: 'data' is 
+assigned a value but never 
+used.  @typescript-eslint/n
+o-unused-vars
+
+info  - Need to disable 
+some ESLint rules? Learn 
+more here: https://nextjs.o
+rg/docs/basic-features/esli
+nt#disabling-rules

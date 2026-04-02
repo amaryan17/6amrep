@@ -1,0 +1,11 @@
+﻿src/app/pipeline/[jobId]/page.tsx(203,19): error TS2322: Type 'unknown' is not assignable to type 'ReactNode'.
+src/app/pipeline/[jobId]/page.tsx(204,19): error TS2322: Type 'unknown' is not assignable to type 'ReactNode'.
+src/app/pipeline/[jobId]/page.tsx(212,29): error TS2365: Operator '>=' cannot be applied to types '{}' and 'number'.
+src/app/pipeline/[jobId]/page.tsx(215,33): error TS2365: Operator '>=' cannot be applied to types '{}' and 'number'.
+src/app/pipeline/[jobId]/page.tsx(232,19): error TS2322: Type 'unknown' is not assignable to type 'ReactNode'.
+src/components/ui/TrueFocus.tsx(41,36): error TS18047: 'prev' is possibly 'null'.
+src/components/ui/TrueFocus.tsx(86,13): error TS2322: Type '(el: HTMLSpanElement | null) => HTMLSpanElement | null' is not assignable to type 'LegacyRef<HTMLSpanElement> | undefined'.
+  Type '(el: HTMLSpanElement | null) => HTMLSpanElement | null' is not assignable to type '(instance: HTMLSpanElement | null) => void | (() => VoidOrUndefinedOnly)'.
+    Type 'HTMLSpanElement | null' is not assignable to type 'void | (() => VoidOrUndefinedOnly)'.
+      Type 'null' is not assignable to type 'void | (() => VoidOrUndefinedOnly)'.
+src/components/ui/TrueFocus.tsx(116,20): error TS18047: 'currentIndex' is possibly 'null'.

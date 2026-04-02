@@ -1,0 +1,4 @@
+TEST 1 (VM): {"status": "complete", "result": {"status": "success", "tech_debt": {"score": 74, "issues_fixe
+TEST 2 (DB): {"status": "complete", "result": {"status": "success", "tech_debt": {"score": 74, "issues_fixe
+SAME? True
+VERDICT: DEMO MODE
